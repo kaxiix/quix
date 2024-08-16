@@ -18,11 +18,12 @@ const Hero = () => {
           duration: 0.5,
           ease: [0.4, 0.0, 0.2, 1],
         }}
-        className="text-2xl px-4 md:text-4xl lg:text-4xl font-bold text-white dark:text-white max-w-4xl leading-relaxed lg:leading-snug text-center mx-auto "
+        className="text-2xl px-4 md:text-4xl lg:text-4xl font-semibold text-white dark:text-white max-w-4xl leading-relaxed lg:leading-snug text-center mx-auto "
       >
-        Converting Your Imaginations Into Reality One Pixel At A Time <br />
-        <Highlight className="text-black text-2xl dark:text-white">
-          ` Your internet success is OUR mission :)`
+        Converting Your Imaginations Into Reality <br /> One Pixel At A Time{" "}
+        <br />
+        <Highlight className="text-black text-2xl  dark:text-white">
+          Your internet success is OUR mission :)
         </Highlight>
       </motion.h1>
     </HeroHighlight>
