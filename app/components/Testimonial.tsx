@@ -8,15 +8,15 @@ const Testimonial = () => {
   const testimonials = [
     {
       quote:
-        "It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair.",
-      name: "Charles Dickens",
-      title: "A Tale of Two Cities",
+        "Quix Studio was simply the best decision I ever made! Exceeded our expectations with their creative solutions and dedication. They approached our project with the same passion and attention to detail as if they owned the business themselves. A truly exceptional partner!",
+      name: "Mr. Ali Ammar",
+      title: "Ammar Law Firm",
     },
     {
       quote:
-        "To be, or not to be, that is the question: Whether 'tis nobler in the mind to suffer The slings and arrows of outrageous fortune, Or to take Arms against a Sea of troubles, And by opposing end them: to die, to sleep.",
-      name: "William Shakespeare",
-      title: "Hamlet",
+        "The team at Quix Studio has been incredibly reliable and innovative, working with the same level of commitment as if our success directly impacted them.",
+      name: "Mr. Mohammad Sultan",
+      title: "General Manager at Omairi Trading Est",
     },
     {
       quote: "All that we see or seem is but a dream within a dream.",
@@ -25,15 +25,27 @@ const Testimonial = () => {
     },
     {
       quote:
-        "It is a truth universally acknowledged, that a single man in possession of a good fortune, must be in want of a wife.",
-      name: "Jane Austen",
-      title: "Pride and Prejudice",
+        "Quix Studio has been instrumental in our digital transformation. They don’t just execute tasks—their investment in our goals with the same drive and ownership as if it were their own was fascinating.",
+      name: "Mr. Omairi",
+      title: "Founder and CEO at Omairi Trading Est.",
     },
     {
       quote:
-        "Call me Ishmael. Some years ago—never mind how long precisely—having little or no money in my purse, and nothing particular to interest me on shore, I thought I would sail about a little and see the watery part of the world.",
-      name: "Herman Melville",
-      title: "Moby-Dick",
+        "Quix Studio’s professionalism and creative solutions have expanded our reach. They approach our needs with the dedication and passion one would expect if it were their own enterprise.",
+      name: "Mr. Arif",
+      title: "Supply Management at Crystal Fruits Trading Company",
+    },
+    {
+      quote:
+        "A game-changer for us! Their commitment is unparalleled. My business was highly unstable and pretty much lost. Their incredible commitment to our success has made it a piece of cake for my business to regrow.",
+      name: "Mr. Monirul",
+      title: "Founder and CEO of Bahar Jeddah Food Company",
+    },
+    {
+      quote:
+        "Quix Studio’s creativity and detailed approach have made a significant difference in how our brand stands out. They’ve handled our projects with the same care as if it were their personal venture.",
+      name: "Mr. Joynal Abdin",
+      title: "Middle Eastern Trainee Manager at Rocco Forte Hotels",
     },
   ];
   return (

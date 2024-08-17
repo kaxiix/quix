@@ -95,9 +95,9 @@ const Navbar = () => {
             <Image
               src="/logo1.png"
               alt="Logo"
-              width={60}
-              height={60}
-              className="w-[60px] relative z-10"
+              width={1000}
+              height={1000}
+              className="w-[60px] relative z-50"
             />
           </div>
         </div>

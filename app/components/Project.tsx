@@ -10,32 +10,34 @@ import { Cover } from "@/components/ui/cover";
 // Dummy project data
 const projects = [
   {
-    title: "Project 1",
-    description: "A fascinating project about floating things.",
-    imageUrl:
-      "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=2560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    link: "#",
+    title: "Bahar Jeddah Food Company",
+    description:
+      "Supplying premium wholesale food products with unmatched quality and reliability to fuel your business success.",
+    imageUrl: "/bahar.png",
+    link: "https://www.baharjeddahfoodco.com/",
+  },
+
+  {
+    title: "Fabric Studio",
+    description:
+      "Fabric is a digital product studio dedicated to crafting exceptional apps and experiences with focused, hands-on expertise.",
+    imageUrl: "/fabric.png",
+    link: "https://www.fabric.studio/",
   },
   {
-    title: "Project 2",
-    description: "An amazing project with stunning visuals.",
-    imageUrl:
-      "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=2560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    link: "#",
+    title: "Relphacare technology",
+    description:
+      "Capturing the power of artificial intelligence to reduce healthcare errors.",
+    imageUrl: "/relpha.gif",
+    link: "https://www.relphacare.com/",
   },
+
   {
-    title: "Project 3",
-    description: "A creative project with a unique approach.",
-    imageUrl:
-      "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=2560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    link: "#",
-  },
-  {
-    title: "Project 4",
-    description: "An innovative project that challenges norms.",
-    imageUrl:
-      "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?q=80&w=2560&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    link: "#",
+    title: "Arzag food stuff",
+    description:
+      "Arzag delivers top-quality wholesale food products with a commitment to excellence and customer satisfaction.",
+    imageUrl: "/arzag.png",
+    link: "https://catalog.arzagplus.com/",
   },
 ];
 
