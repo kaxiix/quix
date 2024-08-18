@@ -18,11 +18,7 @@ const Testimonial = () => {
       name: "Mr. Mohammad Sultan",
       title: "General Manager at Omairi Trading Est",
     },
-    {
-      quote: "All that we see or seem is but a dream within a dream.",
-      name: "Edgar Allan Poe",
-      title: "A Dream Within a Dream",
-    },
+
     {
       quote:
         "Quix Studio has been instrumental in our digital transformation. They don’t just execute tasks—their investment in our goals with the same drive and ownership as if it were their own was fascinating.",

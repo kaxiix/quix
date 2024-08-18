@@ -25,7 +25,7 @@ const projects = [
     link: "https://www.fabric.studio/",
   },
   {
-    title: "Relphacare technology",
+    title: "Relphacare Technology",
     description:
       "Capturing the power of artificial intelligence to reduce healthcare errors.",
     imageUrl: "/relpha.gif",
@@ -33,7 +33,7 @@ const projects = [
   },
 
   {
-    title: "Arzag food stuff",
+    title: "Arzag Food Stuff",
     description:
       "Arzag delivers top-quality wholesale food products with a commitment to excellence and customer satisfaction.",
     imageUrl: "/arzag.png",

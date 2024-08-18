@@ -42,7 +42,7 @@ const content = [
     content: (
       <div className="h-full w-full  flex items-center justify-center text-white">
         <Image
-          src="/content.webp"
+          src="/content1.webp"
           width={1000}
           height={1000}
           className="h-full w-full object-cover"

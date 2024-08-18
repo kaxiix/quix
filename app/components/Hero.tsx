@@ -23,7 +23,7 @@ const Hero = () => {
         Converting Your Imaginations Into Reality <br /> One Pixel At A Time{" "}
         <br />
         <Highlight className="text-black text-2xl  dark:text-white">
-          Your internet success is OUR mission :)
+          Your internet success is our mission :)
         </Highlight>
       </motion.h1>
     </HeroHighlight>
