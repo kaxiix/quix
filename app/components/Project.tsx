@@ -10,6 +10,13 @@ import { Cover } from "@/components/ui/cover";
 // Dummy project data
 const projects = [
   {
+    title: "Full Circle Events",
+    description:
+      "Full Cross Events is a leading event management platform that offers a comprehensive suite of features to help you plan, execute, and manage your events.",
+    imageUrl: "/full.png",
+    link: "",
+  },
+  {
     title: "Bahar Jeddah Food Company",
     description:
       "Supplying premium wholesale food products with unmatched quality and reliability to fuel your business success.",
@@ -23,13 +30,6 @@ const projects = [
       "Fabric is a digital product studio dedicated to crafting exceptional apps and experiences with focused, hands-on expertise.",
     imageUrl: "/fabric.png",
     link: "https://www.fabric.studio/",
-  },
-  {
-    title: "Relphacare Technology",
-    description:
-      "Capturing the power of artificial intelligence to reduce healthcare errors.",
-    imageUrl: "/relpha.gif",
-    link: "https://www.relphacare.com/",
   },
 
   {
