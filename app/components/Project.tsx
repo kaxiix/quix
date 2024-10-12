@@ -14,7 +14,7 @@ const projects = [
     description:
       "Full Cross Events is a leading event management platform that offers a comprehensive suite of features to help you plan, execute, and manage your events.",
     imageUrl: "/full.png",
-    link: "",
+    link: "https://fullcircle-rho.vercel.app/",
   },
   {
     title: "Bahar Jeddah Food Company",

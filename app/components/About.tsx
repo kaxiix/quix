@@ -103,9 +103,11 @@ const content = [
 
 const About = () => {
   return (
-    <div id="about bg-black bg-grid-white/[0.05] ">
-      <div className="">
-        <StickyScroll content={content} />
+    <div id="about">
+      <div id=" bg-black bg-grid-white/[0.05] ">
+        <div className="">
+          <StickyScroll content={content} />
+        </div>
       </div>
     </div>
   );
